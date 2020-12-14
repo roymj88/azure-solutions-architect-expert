@@ -1,5 +1,4 @@
-# azure-solutions-architect-expert
-Study Material for Azure Solutions Architect Expert
+#Study Material for Azure Solutions Architect Expert
 
 
 Azure Docs - Helper
